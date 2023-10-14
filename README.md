@@ -1,1 +1,1 @@
-# -Content-management-tool
+A content management system(CMS) is an application that is used to manage content, allowing multiple contributions to create, edit and publish. content in a CMS is typically stored in a database and displayed in a presenation layer based on a set of templates like a website.
